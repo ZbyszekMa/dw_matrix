@@ -1,2 +1,2 @@
 # dw_matrix
-Projekt Matrix
+Projekt Matrix - Poznaj reguły gry
