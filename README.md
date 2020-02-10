@@ -1,2 +1,6 @@
-# dw_matrix
-Projekt Matrix - Poznaj reguły gry
+# Projekt Matrix - Poznaj reguły gry
+
+Część pierwsza
+ - a
+ - b
+ - c
